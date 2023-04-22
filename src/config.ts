@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Andrew",
   desc: "Be connected. Stay protected.",
   title: "53C",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "53c-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
