@@ -1,6 +1,6 @@
 # 53C Website
 
-
+The new site is a blog. 
 
 # AstroPaper 📄
 
